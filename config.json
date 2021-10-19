@@ -1,0 +1,6 @@
+{
+  "prefix": "bv",
+  "interact-with-other-bots": false,
+  "save-to": "result.xlsx",
+  "questions": 2
+}

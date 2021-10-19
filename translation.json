@@ -1,0 +1,7 @@
+{
+  "hello": "Xin chào, tôi là người xác nhận 'nhập cư' vào server Minecraft này.\n Tôi cần bạn trả lời một số câu hỏi, để có thể xem xét cho bạn vào sever. Nếu bạn không đồng ý, chỉ cần dùng lệnh `bn cancel` để dừng quá trình trả lời.",
+  "prompt": "Dùng lệnh `bv start` để bắt đầu. Trả lời câu hỏi với cú pháp: `bv ans <câu trả lời>`.\nVD: `bn ans motcongmotbanghai`",
+  "1": "Tên tài khoản Minecraft của bạn là gì? Nếu bạn dùng tài khoản offline, đừng đổi tên vì bạn sẽ được whitelist.",
+  "2": "Bạn vào sever với mục đích gì?",
+  "ok": "Câu trả lời của bạn đã được ghi nhận."
+}
